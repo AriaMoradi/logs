@@ -7,10 +7,12 @@
 ### Day 0: Agust 17, 2020 
 
 **Today's Progress**: 
-1- Created the log repositorty.
-2- Wrote a script to reset my adsl modem
+
+- Created the log repositorty.
+- Wrote a script to reset my adsl modem
 
 **Thoughts:** 
+
 As whe legend says, "Real programmers count from zero!" 
 Let's keep this up! Tommorrow is the day that we do the actual code!
 
