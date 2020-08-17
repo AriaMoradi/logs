@@ -18,8 +18,9 @@ Let's keep this up! Tommorrow is the day that we do the actual code!
 
 
 **Link to work:** 
-[logs project](https://github.com/AriaMoradi/logs/)
-[adsl script](https://gitlab.com/AriaMoradi/dotfiles/-/blob/b8ff19fc5f697d8fed860619c1e7f8fa6dbc927c/scripts/adsl-reset)
+
+- [logs project](https://github.com/AriaMoradi/logs/)
+- [adsl script](https://gitlab.com/AriaMoradi/dotfiles/-/blob/b8ff19fc5f697d8fed860619c1e7f8fa6dbc927c/scripts/adsl-reset)
  
 ### Day N: Month 30, 2020
 
