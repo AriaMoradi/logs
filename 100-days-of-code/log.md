@@ -6,12 +6,12 @@
 
 ### Day 0: Agust 17, 2020 
 
-**Today's Progress**: 
+#### Today's Progress: 
 
 - Created the log repositorty.
 - Wrote a script to reset my adsl modem
 
-**Thoughts:** 
+#### Thoughts: 
 
 As whe legend says, "Real programmers count from zero!" 
 Let's keep this up! Tommorrow is the day that we do the actual code!
@@ -19,16 +19,16 @@ Let's keep this up! Tommorrow is the day that we do the actual code!
 **00:59** I stood up late to write the adsl scrip. well it worked. but I must sleep at 23PM every night. not later! 
 
 
-**Link to work:** 
+#### Link to work:
 
 - [logs project](https://github.com/AriaMoradi/logs/)
 - [adsl script](https://gitlab.com/AriaMoradi/dotfiles/-/blob/b8ff19fc5f697d8fed860619c1e7f8fa6dbc927c/scripts/adsl-reset)
  
 ### Day N: Month 30, 2020
 
-**Today's Progress**: 
+#### Today's Progress 
 
-**Thoughts:** 
+#### Thoughts:
 
-**Link to work:**
+#### Link to work:
  
