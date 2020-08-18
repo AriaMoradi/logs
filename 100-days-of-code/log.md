@@ -34,8 +34,9 @@ Let's keep this up! Tommorrow is the day that we do the actual code!
 
 
 #### Thoughts:
-- I do too much searching. need more of actual coding. How much one does need to prepare before doing the actual work.
+- I do too much searching. need more of actual coding. How much one does need to prepare before doing the actual work?
 - I need to study design?
+- Maybe I should do freecodecamp?
 
 #### Link to work:
  - didn't upload anything. A "npx create-react-app" is not something to show off.
