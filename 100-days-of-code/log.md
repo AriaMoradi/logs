@@ -29,8 +29,8 @@ Let's keep this up! Tommorrow is the day that we do the actual code!
 ### Day 1: Agust 18, 2020
 
 #### Today's Progress: 
-- created a react app to recreate [this theme](https://www.free-css.com/assets/files/free-css-templates/preview/page196/conquer/)
-- read about why a sandwich menu is bad for mobile
+- created a react app to recreate [this theme](https://www.free-css.com/assets/files/free-css-templates/preview/page196/conquer/) which shall be named as "the conquer theme" or "conquer" for short
+- conquer: replicated the navbar
 
 
 #### Thoughts:
@@ -39,8 +39,7 @@ Let's keep this up! Tommorrow is the day that we do the actual code!
 - Maybe I should do freecodecamp?
 
 #### Link to work:
- - didn't upload anything. A "npx create-react-app" is not something to show off.
-
+- conquer: [today's last snapshot](https://github.com/AriaMoradi/conquer-theme/tree/651d5e233009c0d4cba0b51bced171ebe8fac6d2) 
 
 ### Day N: Agust 19, 2020
 
