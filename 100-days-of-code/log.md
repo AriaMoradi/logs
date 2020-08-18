@@ -24,9 +24,26 @@ Let's keep this up! Tommorrow is the day that we do the actual code!
 - [logs project](https://github.com/AriaMoradi/logs/)
 - [adsl script](https://gitlab.com/AriaMoradi/dotfiles/-/blob/b8ff19fc5f697d8fed860619c1e7f8fa6dbc927c/scripts/adsl-reset)
  
-### Day N: Month 30, 2020
 
-#### Today's Progress 
+
+### Day 1: Agust 18, 2020
+
+#### Today's Progress: 
+- created a react app to recreate [this theme](https://www.free-css.com/assets/files/free-css-templates/preview/page196/conquer/)
+- read about why a sandwich menu is bad for mobile
+
+
+#### Thoughts:
+- I do too much searching. need more of actual coding. How much one does need to prepare before doing the actual work.
+- I need to study design?
+
+#### Link to work:
+ - didn't upload anything. A "npx create-react-app" is not something to show off.
+
+
+### Day N: Agust 19, 2020
+
+#### Today's Progress:
 
 #### Thoughts:
 
